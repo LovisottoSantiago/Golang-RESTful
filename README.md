@@ -9,7 +9,8 @@ It uses [Gin](https://gin-gonic.com/) as the HTTP framework and [PostgreSQL](htt
 Project inspiration: [Hexagonal Architecture in Golang](https://dev.to/bagashiz/building-restful-api-with-hexagonal-architecture-in-go-1mij)
 
 ## Database Schema
-<img width="800" height="639" alt="image" src="https://github.com/user-attachments/assets/bffd934b-3e83-492c-9843-77c9171bd768" />
+<img width="1275" height="1127" alt="image" src="https://github.com/user-attachments/assets/ffa71254-0634-4017-90cf-0ff94c268355" />
+
 
 
 ## License
